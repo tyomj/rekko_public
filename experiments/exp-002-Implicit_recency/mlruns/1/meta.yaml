@@ -1,0 +1,4 @@
+artifact_location: /opt/shared/rekko/experiments/exp-002-Implicit_recency/mlruns/mlruns/1
+experiment_id: 1
+lifecycle_stage: active
+name: pruning

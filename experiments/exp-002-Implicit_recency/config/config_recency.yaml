@@ -1,0 +1,14 @@
+grid_params:
+    beta:
+        min: 1000
+        max: 1600
+        step: 100
+    alpha:
+        min: 700
+        max: 1000
+        step: 100
+    max_len:
+        min: 5
+        max: 40
+        step: 5
+    
